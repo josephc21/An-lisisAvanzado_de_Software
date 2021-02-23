@@ -8,7 +8,7 @@
 ___
 #### 📁Blog
 ### Unidad 1
-[nombre que quieres darle a tu enlace][https://www.amazon.com.mx/]
+[C0.1_Integrar Equipos de Trabajo ](https://github.com/josephc21/AnalisisAvanzado_de_Software/blob/main/C0.1_IntegrarEquiposdeTrabajo.pdf)
 ### Unidad 2
 ### Unidad 3
 ### Unidad 4
