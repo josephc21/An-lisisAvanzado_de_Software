@@ -5,6 +5,7 @@
 ##### Número de control: 18210465
 ##### Nombre de alumno: Chávez Villaseñor Antonio Joseph
 ##### Correo Institucional: antonio.chavez18@tectijuana.edu.mx
+##### Equipo Perseverance
 ___
 #### 📁Blog
 ### Unidad 1
