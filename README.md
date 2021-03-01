@@ -10,7 +10,7 @@ ___
 #### 📁Blog
 ### Unidad 1
 #### CX
-[C0.1_Integrar Equipos de Trabajo ](https://github.com/josephc21/AnalisisAvanzado_de_Software/blob/main/C0.1_IntegrarEquiposdeTrabajo.pdf)
+[C0.1_Integrar Equipos de Trabajo ](https://github.com/josephc21/AnalisisAvanzado_de_Software/blob/main/C0.1_IntegrarEquiposdeTrabajo.pdf)  
 [C0.2_Tipo de sistema de información](https://github.com/josephc21/AnalisisAvanzado_de_Software/blob/main/C0.2_Tipo_de_Sistema_Desarrollar_JosephChavez.pdf)
 
 #### AX
