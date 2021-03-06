@@ -11,7 +11,7 @@ ___
 ### Unidad 1
 #### CX
 [C0.1_Integrar Equipos de Trabajo ](https://github.com/josephc21/AnalisisAvanzado_de_Software/blob/main/C0.1_IntegrarEquiposdeTrabajo.pdf)  
-[C0.2_Tipo de sistema de información](https://github.com/josephc21/AnalisisAvanzado_de_Software/blob/main/C0.2_Tipo_de_Sistema_Desarrollar_JosephChavez.pdf)
+[C0.2_Tipo de sistema de información](https://github.com/josephc21/AnalisisAvanzado_de_Software/blob/main/C0.2_Tipo_de_Sistema_Desarrollar_JosephChavez.pdf)  
 [C0.3_Diagrama de flujo del proceso](https://github.com/josephc21/AnalisisAvanzado_de_Software/blob/main/C0.3_DiagramadeFlujo_JosephCh%C3%A1vez.pdf)
 #### AX
 ### Unidad 2
