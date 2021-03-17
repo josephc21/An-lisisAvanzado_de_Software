@@ -14,6 +14,7 @@ ___
 [C0.2_Tipo de sistema de información](https://github.com/josephc21/AnalisisAvanzado_de_Software/blob/main/C0.2_Tipo_de_Sistema_Desarrollar_JosephChavez.pdf)  
 [C0.3_Diagrama de flujo del proceso](https://github.com/josephc21/AnalisisAvanzado_de_Software/blob/main/C0.3_DiagramadeFlujo_JosephCh%C3%A1vez.pdf)
 #### AX
+[A0.1 Recopilación de datos por medio de la entrevista](https://github.com/josephc21/AnalisisAvanzado_de_Software/blob/main/A0.1_Recopilacion_Entrevista_JosephAntonioChavezVillase%C3%B1or.pdf)  
 ### Unidad 2
 ### Unidad 3
 ### Unidad 4
