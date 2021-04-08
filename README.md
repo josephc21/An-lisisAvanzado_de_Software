@@ -17,7 +17,5 @@ ___
 [C1.2_Elaboracion del acta constitutiva del proyecto](https://github.com/josephc21/AnalisisAvanzado_de_Software/blob/main/C1.2_ActaConstitutiva_delProyecto_JosephCh%C3%A1vez.pdf)   
 #### AX
 [A0.1_Data compilation through the interview](https://github.com/josephc21/AnalisisAvanzado_de_Software/blob/main/A0.1_Interview_Compilation_JosephAntonioChavezVillase%C3%B1or.pdf)        
-### Unidad 2
-### Unidad 3
-### Unidad 4
+
 
