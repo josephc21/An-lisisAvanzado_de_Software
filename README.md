@@ -14,6 +14,8 @@ ___
 [C0.2_Tipo de sistema de información](https://github.com/josephc21/AnalisisAvanzado_de_Software/blob/main/C0.2_Tipo_de_Sistema_Desarrollar_JosephChavez.pdf)  
 [C0.3_Diagrama de flujo del proceso](https://github.com/josephc21/AnalisisAvanzado_de_Software/blob/main/C0.3_DiagramadeFlujo_JosephCh%C3%A1vez.pdf)  
 [C1.1 Definición de Objetivo general y los especificos, asi como el modelado del negocio](https://github.com/josephc21/AnalisisAvanzado_de_Software/blob/main/C1.1_ObjetivosGenerales_especificos_JosephCh%C3%A1vez.pdf)   
+[C1.2 Elaboracion del acta constitutiva del proyecto]
+(https://github.com/josephc21/AnalisisAvanzado_de_Software/blob/main/C1.2_ActaConstitutiva_delProyecto_JosephCh%C3%A1vez.pdf)    
 #### AX
 [A0.1 Data compilation through the interview](https://github.com/josephc21/AnalisisAvanzado_de_Software/blob/main/A0.1_Interview_Compilation_JosephAntonioChavezVillase%C3%B1or.pdf)        
 ### Unidad 2
