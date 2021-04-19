@@ -18,6 +18,6 @@ ___
 [C1.3_Requisitos del sistema para el caso de estudio](https://github.com/josephc21/AnalisisAvanzado_de_Software/blob/main/C1.3_Requisitos_del_sistema_JosephCh%C3%A1vez.pdf)    
 #### AX
 [A0.1_Data compilation through the interview](https://github.com/josephc21/AnalisisAvanzado_de_Software/blob/main/A0.1_Interview_Compilation_JosephAntonioChavezVillase%C3%B1or.pdf)      
-[A1.0_Consolidacion del acta constitutiva](https://github.com/josephc21/AnalisisAvanzado_de_Software/blob/main/A1.0_Consolidation_of_the_Constitutive_Act_JosephCh%C3%A1vez.pdf)  
+[A1.0_Consolidation of the Constitutive](https://github.com/josephc21/AnalisisAvanzado_de_Software/blob/main/A1.0_Consolidation_of_the_Constitutive_Act_JosephCh%C3%A1vez.pdf)  
 
 
