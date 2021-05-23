@@ -30,5 +30,6 @@ ___
 [A2.1_Specification of requirements and documentation](https://github.com/josephc21/AnalisisAvanzado_de_Software/blob/main/A2.1_Specification_of_requirements_and_documentation_JosephCh%C3%A1vez.pdf)  
 [A2.1_IEEE830](https://github.com/josephc21/AnalisisAvanzado_de_Software/blob/main/IEEE803_JosepCh%C3%A1vez.pdf)  
 [A2.2_Architecture Design 4+1](https://github.com/josephc21/AnalisisAvanzado_de_Software/blob/main/A2.2_Architecture_Design_41_JosephCh%C3%A1vez.pdf)  
+[A2.3_Software Architecture Patterns](https://github.com/josephc21/AnalisisAvanzado_de_Software/blob/main/A2.3_Software_Architecture_patterns_JosephCh%C3%A1vez.pdf)  
 
 
