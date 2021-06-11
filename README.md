@@ -33,5 +33,6 @@ ___
 [A2.3_Software Architecture Patterns](https://github.com/josephc21/AnalisisAvanzado_de_Software/blob/main/A2.3_Software_Architecture_patterns_JosephCh%C3%A1vez.pdf)  
 
 [A3.1_Scrum Documentation start phase](https://github.com/josephc21/AnalisisAvanzado_de_Software/blob/main/A3.1_Scrum_documentation_start_phase_JosephCh%C3%A1vez.pdf)  
+[A3.2 Startphase and your artifacts](https://github.com/josephc21/AnalisisAvanzado_de_Software/blob/main/A3.2_Startphase_and_your_artifacts_JosephCh%C3%A1vez.pdf)  
 
 
