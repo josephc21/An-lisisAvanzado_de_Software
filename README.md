@@ -34,5 +34,6 @@ ___
 
 [A3.1_Scrum Documentation start phase](https://github.com/josephc21/AnalisisAvanzado_de_Software/blob/main/A3.1_Scrum_documentation_start_phase_JosephCh%C3%A1vez.pdf)  
 [A3.2_Startphase and your artifacts](https://github.com/josephc21/AnalisisAvanzado_de_Software/blob/main/A3.2_Startphase_and_your_artifacts_JosephCh%C3%A1vez.pdf)  
+[A3.3_Architecture using Model C4](https://github.com/josephc21/AnalisisAvanzado_de_Software/blob/main/A3.3_Architecture_usingModelC4_JosephCh%C3%A1vez.pdf)  
 
 
